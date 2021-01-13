@@ -1,0 +1,35 @@
+<dc_catalog last_update="2021-01-13 16:05:48">
+    <delivery_service>
+        <categories>
+            <category id="111">Товары с платной доставкой</category>
+            <category id="137">Турбо-суши</category>
+            <category id="141">Турбо-гунканы</category>
+            <category id="6" parentId="2">Нигири</category>
+            <category id="7" parentId="2">Гункан</category>
+            <category id="10" parentId="9">Традиционные</category>
+        </categories>
+        <products>
+            <product id="1495">
+                <category_id>10</category_id>
+                <name>Ямато</name>
+                <description>Лосось, креветка, краб-микс, сыр, огурец, омлет, тобико, кунжут, соус «Ажи-маракуйя», зеленый лук, 6 шт.</description>
+                <price>425</price>
+                <picture>https://static4.tanuki.ru/product/1/5aKkVuNIiv9u3ypUj2a2sH-d6oU4J3f4.jpg</picture>
+            </product>
+            <product id="1496">
+                <category_id>10</category_id>
+                <name>Сэнсэй</name>
+                <description>Креветка темпура, лосось, огурец, авокадо, сыр, перец чили, микс соусов, кунжут, 6 шт.</description>
+                <price>425</price>
+                <picture>https://static4.tanuki.ru/product/1/VYqSvmA1QAjn9PtENZ8bczpCnFnqPp28.jpg</picture>
+            </product>
+            <product id="1497">
+                <category_id>10</category_id>
+                <name>Гауди</name>
+                <description>Лосось копченый, руккола, перец, сыр, авокадо, кунжут, зеленый лук, 6 шт.</description>
+                <price>390</price>
+                <picture>https://static4.tanuki.ru/product/1/-ETWuYaK5dHQ2cjQ2KPwu8k4UlHrQnQV.jpg</picture>
+            </product>
+        </products>
+    </delivery_service>
+</dc_catalog>

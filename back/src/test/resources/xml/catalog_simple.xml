@@ -1,0 +1,16 @@
+<dc_catalog last_update="2021-01-13 16:05:48">
+    <delivery_service>
+        <categories>
+            <category id="6" parentId="2">Нигири</category>
+        </categories>
+        <products>
+            <product id="1495">
+                <category_id>10</category_id>
+                <name>Ямато</name>
+                <description>Лосось, креветка, краб-микс, сыр, огурец, омлет, тобико, кунжут, соус «Ажи-маракуйя», зеленый лук, 6 шт.</description>
+                <price>425</price>
+                <picture>https://static4.tanuki.ru/product/1/5aKkVuNIiv9u3ypUj2a2sH-d6oU4J3f4.jpg</picture>
+            </product>
+        </products>
+    </delivery_service>
+</dc_catalog>

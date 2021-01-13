@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.test'
+version = '0.0.1'
+sourceCompatibility = '1.8'
+def env = "local"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
+test {
+    useJUnitPlatform()
+}
